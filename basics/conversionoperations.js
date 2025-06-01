@@ -16,5 +16,8 @@ let number=2004
 let stringnumber=String(number);
 console.log(stringnumber)
 console.log(typeof(stringnumber));
+console.log("1"+2);
+console.log("1"+"2");
+console.log("1"+2+2);
 
 
